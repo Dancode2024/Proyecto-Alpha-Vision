@@ -1,0 +1,11 @@
+Orden de Reserva de CineRise
+
+##################################
+Usuario: Daniel
+Bebida: 
+Cancha: 
+Hamburguesa: Hamburguesa Vegana
+Cantidad:  2
+Precio:  S/.19.0
+##################################
+Precio Total: $ 19.00

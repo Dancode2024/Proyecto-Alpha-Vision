@@ -1,0 +1,14 @@
+Boleta de Reserva de CineRise
+
+Título: Spider-man
+Horario: 10:15 am
+Categoría: Ciencia Ficción
+Fecha: 2024-12-06
+Sala: Sala 4
+Método de Pago: Tarjeta
+Precio Final: 36.75
+Usuario: Daniel
+Código de Boleta: FMUE1ADM
+
+Asientos Seleccionados: 
+Asiento 1

@@ -1,0 +1,14 @@
+Boleta de Reserva de CineRise
+
+Título: Spider-man
+Horario: 10:15 am
+Categoría: Ciencia Ficción
+Fecha: 2024-12-06
+Sala: Sala 3
+Método de Pago: Tarjeta
+Precio Final: 31.5
+Usuario: Daniel
+Código de Boleta: XCWH6765
+
+Asientos Seleccionados: 
+Asiento 4
